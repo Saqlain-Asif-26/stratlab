@@ -7,7 +7,7 @@ function Hero2() {
     <div className='my-8 mx-28'>
       <div className=' pt-10 flex justify-between cursor-default'>
         <div className=''>
-          <img className=' w-[900px] hover:scale-125 duration-300' src="/public/images/hero2.png" alt="Hero2 image" />
+          <img className=' w-[900px] hover:scale-125 duration-300' src="/images/hero2.png" alt="Hero2 image" />
         </div>
         <div className=''>
           <p className='px-5 font-bold text-green-600 text-sm border-l-4 border-green-600'>ABOUT THE COURSE</p>
