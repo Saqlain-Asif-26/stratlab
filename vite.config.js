@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/stratlab/', // Update to your repo name
+  base: '/stratlab/', // GitHub repo ka naam
 });
