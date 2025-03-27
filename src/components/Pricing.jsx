@@ -46,7 +46,7 @@ function Pricing() {
                 <p>Access to members only cummunity</p>
               </div>
             </div>
-            <img className='absolute w-24 -top-7 -right-7' src="/images/star.png" alt="star-logo" />
+            <img className='absolute w-24 -top-7 -right-7' src="/stratlab/images/star.png" alt="star-logo" />
           </div>
         </div>
       </div>

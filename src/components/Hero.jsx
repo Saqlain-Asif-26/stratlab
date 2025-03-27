@@ -27,7 +27,7 @@ function Hero() {
         </div>
         </div>
         <div className=''>
-          <img className='w-[900px] hover:scale-125 duration-300' src="/images/Book.png" alt="Hero image" />
+          <img className='w-[900px] hover:scale-125 duration-300' src="/stratlab/images/Book.png" alt="Hero image" />
         </div>
       </div>
       <HeroCard />

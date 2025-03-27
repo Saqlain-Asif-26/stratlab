@@ -26,7 +26,7 @@ function Summery() {
                   <div><a href='#' className='px-4 py-2 rounded-full cursor-pointer bg-green-600 text-white font-semibold text-lg inline-flex items-center'>Next &nbsp;&nbsp; <FaAngleRight /></a></div>
                 </div>
                 <div className='overflow-hidden rounded-lg'>
-                  <img className='w-60 hover:scale-125 duration-300' src="/images/laptop.jpg" alt="" />
+                  <img className='w-60 hover:scale-125 duration-300' src="/stratlab/images/laptop.jpg" alt="" />
                 </div>
               </div>
             </div>

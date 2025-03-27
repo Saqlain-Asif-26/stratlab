@@ -34,7 +34,7 @@ function Hero3() {
         </div>
         </div>
         <div className=''>
-          <img className=' w-[900px] z-30 hover:scale-125 duration-300' src="/images/Book.png" alt="Hero image" />
+          <img className=' w-[900px] z-30 hover:scale-125 duration-300' src="/stratlab/images/Book.png" alt="Hero image" />
         </div>
       </div>
     </div>
